@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1766088403 source:c:\users\asus\desktop\memoryallocationtool project\memoryallocationtool\allocationrequest.cpp
+	"AllocationRequest.h"
+
+1766088920 c:\users\asus\desktop\memoryallocationtool project\memoryallocationtool\allocationrequest.h
+	<string>
+
+1766087963 source:c:\users\asus\desktop\memoryallocationtool project\memoryallocationtool\memoryblock.cpp
+
+1766088490 source:c:\users\asus\desktop\memoryallocationtool project\memoryallocationtool\stats.cpp
+	"Stats.h"
+
+1766089040 c:\users\asus\desktop\memoryallocationtool project\memoryallocationtool\stats.h
+	<string>
+
+1766088460 source:c:\users\asus\desktop\memoryallocationtool project\memoryallocationtool\strategy.cpp
+	"Strategy.h"
+
+1766089000 c:\users\asus\desktop\memoryallocationtool project\memoryallocationtool\strategy.h
+	<string>
+
+1766672150 source:c:\users\asus\desktop\memoryallocationtool project\memoryallocationtool\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1766088749 c:\users\asus\desktop\memoryallocationtool project\memoryallocationtool\memoryblock.h
+	<string>
+
